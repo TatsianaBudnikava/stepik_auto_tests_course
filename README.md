@@ -1,3 +1,6 @@
 # stepik_auto_tests_course
 Homework
-https://stepik.org/lesson/187065/step/7?unit=161976
+Ссылка на курс Автоматизация тестирования с помощью Selenium и Python
+https://stepik.org/course/575/syllabus
+
+
